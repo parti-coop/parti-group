@@ -1,0 +1,27 @@
+# Site settings
+title: Parti-group
+tagline: 빠띠 그룹 페이지
+description: >
+  빠띠의 비전과 스타일, 프로세스 및 빠띠조합의 가이드를 정리합니다.
+baseurl: '' # the subpath of your site, e.g. /blog/
+url: 'http://docs.parti.xyz' # the base hostname & protocol for your site
+permalink: pretty
+timezone: Asia/Seoul
+
+email: all@parti.xyz
+
+locale: ko
+# locale_alt:
+
+# 공유용 대표 이미지 (트위터 페북 카드 이미지)
+default_image: 
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+
+sass:
+  style: compressed
+
+exclude: [ Gemfile, Gemfile.lock, README.md, front/uploads.md ]
