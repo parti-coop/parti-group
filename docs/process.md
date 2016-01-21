@@ -5,7 +5,7 @@ layout: default
 # Process
 
 * 협업도구 :  https://goo.gl/jAT1DK
-* 협업방식 : 매일 스탠드업, 주간 회고, 워크숍
+* 협업방식 : 매일 스탠드업, 주간 회고, 워크숍, 체크인, 세션, 글쓰기
 * 작업방식 :
   * 전략안 : 서비스의 먼 목표를 명시한 전략안 문서를 계속해서 업그레이드한다.
   * 프로토타입 :
@@ -29,7 +29,6 @@ layout: default
 * parti-union http://canoe.parti.xyz/parti-union - 빠띠 직원조합의 이슈를 다룹니다.
 * parti-catan http://canoe.parti.xyz/parti-catan - 카누 서비스 개발 이슈를 다룹니다.
 * parti-canoe http://canoe.parti.xyz/parti-canoe - 카탄 서비스 개발 이슈를 다룹니다.
-* 카누서비스센터 http://canoe.parti.xyz/fix-our-canoe - 카누를 사용하는 고객의 피드백을 받습니다.
 
 ### 미디엄 https://medium.com/parti-xyz-developers
 
@@ -43,7 +42,7 @@ layout: default
 
 ### Slack https://slack.com/
 
-메신저. parti 멤버가 되면 최초로 parti.xyz slack에 초대 받게 됩니다.  
+메신저. parti 멤버가 되면 최초로 parti.xyz slack에 초대 받게 됩니다.
 
 가끔 중요한 메시지는 pin을 찍어 놓습니다. 데스크탑 slack 프로그램에서는 각 채널에 pin된 메시지를 info에서 확인할 수 있습니다. info는 채널 상단 아이콘을 클릭하시면 보입니다.
 
@@ -55,11 +54,23 @@ parti github입니다. 질문이나 제안 등을 이슈로 올려주세요. 소
 
 ### StandUp
 
-매일 아침 9시 스탠드업 합니다. 간단히 이슈를 칠판 https://goo.gl/iK8wnU 에 적고 공유합니다.
+매일 아침에 스탠드업을 합니다. 스탠드업에서는 [이슈 보드](http://intro.parti.xyz/issues)에 자신의 할 일을 등록하고 공유합니다. 그리고 세션을 달력에 등록하고 참가자를 모집합니다.
 
 ### Retrospective
 
 매주 금요일 오후 5:00에 회고를 합니다.
+
+### 세션
+
+페어 및 공동 작업을 달력에 공지하고 원격으로 작업합니다. 원칙적으로 누구나 참여할 수 있으며, 참가자는 달력의 해당 세션에 참가 전에 자신의 이름을 기재합니다. 주최자는 달력에 기재된 멤버를 초대하고 공동 작업을 진행합니다.
+
+### 체크인
+
+합류한 커미터는 빠띠의 플랫폼에 코드 기여 후 배포의 과정을 진행하는 세션을 엽니다.
+
+그리고 하나 이상의 블로그를 써서 미디엄에 퍼블리싱하고, 페이스북 페이지에 공유까지 합니다.
+
+이 과정을 체크인이라 합니다.
 
 ### Slack https://slack.com/
 
