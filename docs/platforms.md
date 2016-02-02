@@ -44,7 +44,7 @@ layout: default
 * 통합적인 민주주의 integrated democracy
   * Demo <> Protest - 시위는 민주주의의 중요한 한 구성 요소
   * 의견과 정보를 듣고, 깊이 있는 논의를 거친 후, 조직화와 행동까지 이어짐.
-  * awareness ==> deliberation ==> mobilzation & organization
+  * awareness ==> expression, deliberation ==> mobilzation & organization
   * 행동으로 이어지고 조직화가 되도록 한다.
 * 집단지성 민주주의 collective  democracy
   * 집단지성과 창발성
@@ -74,7 +74,7 @@ layout: default
 * 다양한 목소리가 공정하게 표출되고 합리적으로 조율될 수 있는 서비스 구조를 갖춘다.
 * 의견이 실제 반영될 수 있는 사회적 시스템의 일부가 되는 것을 목표로 한다.
 
-## 전략 (Strategy)
+## 로드맵 (Roadmap)
 
 목표 달성을 위한 종합적, 장기적 계획 및 운영
 
@@ -82,9 +82,3 @@ layout: default
 * 2단계 - "일상민주주의를 실현하는 커뮤니티" 정치사회적 이슈에 대해 합리적인 의사 및 행동을 추구하려는 사람들이 사용하는 플랫폼으로 확장
 * 3단계 - 다양한 사용자층을 견인하며 사회적 플랫폼으로 자리 매김할 수 있도록 서비스 고도화 (소사이어티 오퍼레이팅 시스템)
 
-## 전술 (Tactics)
-
-* 토론을 통해 전략 1단계에 부합하는 가설 설정
-* 가설 확인을 위한 최소 단위의 기능 명세서 공동 작성
-* 워킹 프로토타입 / 스케치(Low Fidelity Wireframe) 병행. 핵심 기능과 동선을 빠르게 검증
-* 1-3번을 반복하며 핵심 기능을 도출하고 머지
