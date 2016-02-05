@@ -2,7 +2,12 @@
 layout: default
 ---
 
-# Process
+
+# parti.xyz에 공헌하기 위한 안내서
+
+&nbsp;
+
+## Process
 
 * 협업방식 : 매일 스탠드업, 주간 회고, 워크숍, 체크인, 세션, 글쓰기
 * 작업방식 :
@@ -14,7 +19,8 @@ layout: default
   * 서비스 개발 :
     * 핵심 기능을 정리한다.
 
-# parti.xyz에 공헌하기 위한 안내서
+&nbsp;
+
 
 ## 공통
 
@@ -37,7 +43,7 @@ layout: default
 
 글은 등록 후에 반드시 피어 리뷰를 받아야 합니다.
 
-
+&nbsp;
 
 ## Committer에게
 
