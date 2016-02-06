@@ -14,7 +14,7 @@ locale: ko
 # locale_alt:
 
 # 공유용 대표 이미지 (트위터 페북 카드 이미지)
-default_image: 
+default_image:
 
 # Build settings
 markdown: kramdown
@@ -24,4 +24,11 @@ kramdown:
 sass:
   style: compressed
 
-exclude: [ Gemfile, Gemfile.lock, README.md, front/uploads.md ]
+exclude: [ Gemfile, Gemfile.lock, README.md ]
+
+# prose.io settings
+# @see https://github.com/prose/prose/wiki/Prose-Configuration
+prose:
+  siteurl: "http://docs.parti.xyz"
+  ignore: ['_includes', '_layouts', 'stylesheets', '.gitignore', '.ruby-version', 'CNAME', 'Gemfile', 'Gemfile.lock' ]
+  media: 'media'
