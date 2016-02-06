@@ -4,6 +4,7 @@ published: true
 ---
 
 
+
 # 향후 5년에서 10년간의 전략
 
 ## 미션
@@ -69,7 +70,7 @@ published: true
 
 ## 목표 & 로드맵
 
-![partigraph-2.png]({{site.baseurl}}/docs/partigraph-2.png)
+![partigraph-3.png]({{site.baseurl}}/docs/partigraph-3.png)
 
 
 * 1단계 : 정치-사회 이슈를 표출하고 토론할 공론장을 만든다.
