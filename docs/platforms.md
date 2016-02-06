@@ -1,15 +1,17 @@
 ---
 layout: default
+published: true
 ---
+
 
 # 향후 5년에서 10년간의 전략
 
 ## 미션
 
-* 더 나은 민주주의의 기반요소를 통합하는 정치 플랫폼 (integrated democracy platform)
+더 나은 민주주의의 기반요소를 통합하는 정치 플랫폼 (integrated democracy platform)
 * 의회 정치의 바깥에서 정치 행위로 인정되지 않았거나, 존재하지만 분절된 요소들을 연결하여 기민하고, 섬세하고, 일상적으로 정치행동을 할 수 있는 시스템을 만든다.
 
-![mission](/media/parti_graph_1.png)
+![partigraph-1.png]({{site.baseurl}}/docs/partigraph-1.png)
 
 * 인지 : 편향된 구조에서 의견을 내기 힘들었던 개인과 단체가 공정한 기회를 가질 수 있도록 정치-사회문제 정보의 접근성을 높인다.
 * 표현, 토론 : 특정한 관점이 아닌, 입장을 뒷받침하는 정보를 기반으로 다양한 의견이 이슈로 표출될 수 있도록 한다.
@@ -42,29 +44,31 @@ layout: default
 
 ### 분산 자치 (Decentralized Autonomous)
 
-* 전체조직과 세부조직을 유기적으로 연결하는 분산된 자치 조직(Decentralized Autonomous Organization)의 실험.
+* 전체조직과 세부조직을 유기적으로 연결하는 분산된 자치 조직(Decentralized Autonomous Organization)의 실험한다.
 
 ### 숙의 (Deliberative)
 
-* https://ko.wikipedia.org/wiki/숙의_민주주의 - 깊이 생각하여 논의하다.
+* [https://ko.wikipedia.org/wiki/숙의_민주주의](https://ko.wikipedia.org/wiki/숙의_민주주의)
+* 깊이 생각하여 논의한다.
 
 ### 집단지성 (Collective Inteliigence)
 
 * 권력을 가진 몇몇 개인들이 이슈를 낼 수 있는 편향된 구조나 민주주의를 단순 다수결로 이해하는 상황을 벗어나 의견을 내기 힘들었던 개인과 단체에 공정한 기회를 열고 숙의과정을 통해 집단지성을 실현한다.
-* 집단지성을 통해 창발성의 기회를 연다. 유기적인 연결
+* 집단지성을 통해 창발성의 기회를 연다. 
 
 &nbsp;
 
 ## 메타포어
 
-* 플랙탈과 고기떼
+플랙탈과 고기떼
 * 프랙탈은 부분만으로도 독립적으로 존재하며, 모여서 구조를 만들기 때문에 전체가 민주적인 사회를 이루려면 부분도 민주적으로 운영되어야하는 것을 의미하며, 고기떼는 작은 고기들이 자유롭게 모이고 또 흩어지며 사안에 따라 떼를 이뤄 유기적으로 연대하는 시스템을 나타낸다.
 
 &nbsp;
 
 ## 목표 & 로드맵
 
-![objective-roadmap](/media/parti_graph_2.png)
+![partigraph-2.png]({{site.baseurl}}/docs/partigraph-2.png)
+
 
 * 1단계 : 정치-사회 이슈를 표출하고 토론할 공론장을 만든다.
   - 이슈를 인지하거나 토론에 참여하는 과정을 통해 시민 주권을 자각하게 하도록 한다.
