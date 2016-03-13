@@ -35,17 +35,17 @@ layout: default
 * [parti-catan](http://canoe.parti.xyz/parti-catan) - 카누 서비스 개발 이슈를 다룹니다.
 * [parti-canoe](http://canoe.parti.xyz/parti-canoe) - 카탄 서비스 개발 이슈를 다룹니다.
 
-### 미디엄 <https://medium.com/parti-xyz-developers>
-
-빠띠의 멤버가 되면 미디엄에 퍼블리싱할 수 있습니다.
-
-현재는 2주에 하나의 글을 의무적으로 등록하는 실험을 진행 중입니다.
-
-글은 등록 후에 반드시 피어 리뷰를 받아야 합니다.
-
 &nbsp;
 
 ## Committer에게
+
+### Github <http://github.com>
+
+- parti-xyz <https://github.com/parti-xyz> parti github입니다.
+
+&nbsp;
+
+## Core Team에게
 
 ### StandUp
 
@@ -66,6 +66,14 @@ layout: default
 그리고 하나 이상의 블로그를 써서 미디엄에 퍼블리싱하고, 페이스북 페이지에 공유까지 합니다.
 
 이 과정을 체크인이라 합니다.
+
+### 미디엄 <https://medium.com/parti-xyz-developers>
+
+빠띠의 멤버가 되면 미디엄에 퍼블리싱할 수 있습니다.
+
+현재는 2주에 하나의 글을 의무적으로 등록하는 실험을 진행 중입니다.
+
+글은 등록 후에 반드시 피어 리뷰를 받아야 합니다.
 
 ### Slack <https://slack.com>
 
