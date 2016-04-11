@@ -53,7 +53,7 @@ layout: default
 
 ### 항해일지 작성
 
-매일 느끼고 배운 점을 항해일지에 적습니다. https://goo.gl/1K3o0m
+매일 느끼고 배운 점을 항해일지에 적습니다. <https://goo.gl/1K3o0m>
 
 ### 주간 회고
 
