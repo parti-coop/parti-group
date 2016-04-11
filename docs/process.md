@@ -99,11 +99,14 @@ layout: default
 
 ##### Google Groups - all all@parti.xyz
 
-게시판이면서 메일링리스트. 구글 parti 멤버가 되면 자동으로 가입이 됩니다.
-
+구글 parti 멤버가 되면 자동으로 가입이 됩니다.
 all@parti.xyz으로 발송된 메일은 모든 멤버가 자동으로 수신하게 됩니다. 그리고 자동으로 여기에 아카이브 됩니다.
-
 영속적으로 저장할 필요가 있는 정보나 심도 깊은 주제의 대화를 주로 나누게 됩니다.
+
+##### Google Groups - account account@parti.xyz 
+
+account@parti.xyz 메일 주소는 빠띠를 대표 메일 역할을 합니다. 외부 서비스에 가입할 때 사용됩니다.
+구글 parti 멤버가 되면 @dalikim의 가이드를 받아 가입해야 합니다.
 
 ##### Google Drive - parti <https://goo.gl/M5XdQo>
 
