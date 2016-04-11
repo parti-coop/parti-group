@@ -105,7 +105,7 @@ all@parti.xyz으로 발송된 메일은 모든 멤버가 자동으로 수신하�
 
 ##### Google Groups - account account@parti.xyz 
 
-account@parti.xyz 메일 주소는 빠띠를 대표 메일 역할을 합니다. 외부 서비스에 가입할 때 사용됩니다.
+account@parti.xyz 메일 주소는 빠띠를 대표하는 메일 주소 역할을 합니다. 외부 서비스에 가입할 때 사용됩니다.
 구글 parti 멤버가 되면 @dalikim의 가이드를 받아 가입해야 합니다.
 
 ##### Google Drive - parti <https://goo.gl/M5XdQo>
