@@ -85,6 +85,9 @@ layout: default
 ### 소프트웨어 구매 내역 관리
  아래 설명된 도구 Vaultier에 engineering > Software 영역에 모아 놓습니다.
 
+### 소스 보안
+ 소스를 관리하는 엔지니어는 반드시 <https://github.com/awslabs/git-secrets>를 설치하도록 합니다.
+ 
 ### 도구
 
 #### Slack <https://slack.com>
