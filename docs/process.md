@@ -87,6 +87,7 @@ layout: default
 
 ### 소스 보안
  소스를 관리하는 엔지니어는 반드시 <https://github.com/awslabs/git-secrets>를 설치하도록 합니다.
+ 설치 후에 반드시 <https://github.com/awslabs/git-secrets#installing-git-secrets> 이 부분을 참고하여 로컬 레포지토리에 모두 설정 합니다.
  
 ### 도구
 
