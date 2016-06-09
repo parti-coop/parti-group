@@ -9,5 +9,6 @@
 * [프로세스](http://docs.parti.xyz/docs/process/)
 * [플랫폼 전략](http://docs.parti.xyz/docs/platforms/)
 * [콜라보레이션](http://docs.parti.xyz/docs/collaboration/)
+* [인터뷰 및 보도자료](http://parti.xyz/p/parti/articles)
 
 ## [빠띠조합 가이드](https://github.com/parti-xyz/parti-group/blob/master/union-guide.md)
