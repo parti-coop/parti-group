@@ -14,7 +14,7 @@ published: true
 
 바글시민 와글입법 
 
-
+![collaboration_hani21.png]({{site.baseurl}}/media/collaboration_hani21.png)
 * date 2016년 6월 7일 ~ 
 * with 한겨레21 
 * http://up.parti.xyz/
