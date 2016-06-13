@@ -9,7 +9,7 @@ layout: default
 
 ## Process
 
-* 협업방식 : 매일 스탠드업, 주간 회고, 워크숍, 체크인, 글쓰기, 미팅일지
+* 협업방식 : 매일 스탠드업, 태스크 관리, 주간 회고, 워크숍, 체크인, 글쓰기, 미팅일지
 * 작업방식 :
   * 전략안 : 서비스의 먼 목표를 명시한 전략안 문서를 계속해서 업그레이드한다.
   * 프로토타입 :
@@ -50,6 +50,11 @@ layout: default
 ### 매일 스탠드업
 
 매일 아침 8:00 에 스탠드업을 합니다. 스탠드업에서는 자신의 할 일을 공유하고 서로 협업할 것을 논의합니다.
+
+
+### 태스크 관리
+
+업무는 waffle.io에 등록하고 진척 사항을 관리합니다.
 
 ### 항해일지 작성
 
@@ -123,23 +128,16 @@ account@parti.xyz 메일 주소는 빠띠를 대표하는 메일 주소 역할�
 
 parti에서는 하나 혹은 그 이상의 행아웃을 미리 만들고 재사용합니다. 미리 만들어진 행아웃 링크는 slack #-all 채널의 info에 pin되어 있습니다.
 
-#### Hackpad <https://parti-xyz.hackpad.com>
-
-웹기반 실시간 위키입니다. 함께 작성하거나 실시간 협업이 필요한 때 활용합니다. 반드시 외부에 공개될 수 있는 내용만 다루도록 합니다.
-
-- <https://github.com/dropbox/hackpad>
-
-#### Hackfoldr <http://hackfoldr.org/parti-xyz>
-
-대만의 [g0v](http://g0v.tw)가 만든 문서 웹사이트 도구입니다. 사이드바에 구글 문서, 이더패드, 핵패드 등의 문서 링크를 목차로 만들고 클릭하면 본문 영역의 아이프레임에 그 문서가 표시됩니다. 공공 작업하는 문서들은 다 좋은데 어디에 있는지 찾기가 어려운데 이 도구가 그런 문제를 해결해줍니다.
-
-- <https://github.com/hackfoldr/hackfoldr>
-
-
 #### Github <http://github.com>
 
 - parti-xyz <https://github.com/parti-xyz> parti github입니다.
 - parti-group <https://github.com/parti-xyz/parti-group> parti 전반적인 문서를 관리합니다.
+
+#### Waffle.io <http://waffle.io>
+
+태스크 관리 도구입니다. 깃헙 이슈를 한눈에 살펴 볼 수 있게 도와줍니다. 반드시 Github private repository 권한으로 로그인합니다.
+
+- <https://waffle.io/parti-xyz/parti-group>
 
 #### Vaultier <http://vault.ufofactory.net>
 
