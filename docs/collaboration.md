@@ -46,6 +46,7 @@ published: true
 ### 국회의장에게 보낸 편지
 * 2016년 2월, 국회의장에게 테러방지법과 필리버스터에 관한 국민의 세가지 의견을 전달한 프로젝트
 * date 2016년 2월 24일 ~
+* with ?
 * <http://assembly.email/>
 
 ![collaboration_assembly.png]({{site.baseurl}}/media/collaboration_assembly.png)
