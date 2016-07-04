@@ -12,12 +12,22 @@ published: true
 
 ## 시민참여 프로젝트
 
-### 바글시민 와글입법
+### 바글시민 와글입법 2차
 
-* 4가지 법안 중 채택된 최종법안의 발의과정을 지켜보는 시민입법프로젝트
-* date 2016년 6월 7일 ~ (진행중)
+* 1차 프로젝트에서 5470표를 받은 GMO 완전표시제 입법을 위한 프로젝트 정당 만들기
+* date 2016년 7월 5일 ~ 7월 17일
 * with 한겨레21 
 * <http://up.parti.xyz/>
+
+![]({{site.baseurl}}/media/300.png)![300.png]({{site.baseurl}}/media/300.png)
+
+
+### 바글시민 와글입법 1차 
+
+* 4가지 법안 중 채택된 최종법안의 발의과정을 지켜보는 시민입법 프로젝트
+* date 2016년 6월 7일 ~ 6월 26일
+* with 한겨레21 
+* <http://up.parti.xyz/step1>
 
 ![collaboration_hani21.png]({{site.baseurl}}/media/collaboration_hani21.png)
 
@@ -50,4 +60,3 @@ published: true
 * <http://assembly.email/>
 
 ![collaboration_assembly.png]({{site.baseurl}}/media/collaboration_assembly.png)
-
