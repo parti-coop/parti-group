@@ -19,7 +19,7 @@ published: true
 * with 한겨레21 
 * <http://up.parti.xyz/>
 
-![]({{site.baseurl}}/media/300.png)![300.png]({{site.baseurl}}/media/300.png)
+![300.png]({{site.baseurl}}/media/300.png)
 
 
 ### 바글시민 와글입법 1차 
