@@ -1,5 +1,6 @@
 ---
 layout: default
+published: true
 ---
 
 # 유한회사 빠흐띠 parti-group
@@ -35,7 +36,7 @@ layout: default
 * 코어 개발팀의 역량 외에는 자동화하거나 외부 솔루션, 외주를 활용한다.
 
 
-# Style
+## Style
 
 * 열정
   * 모든 팀원은 빠흐띠의 비전과 미션에 대단한 열정을 가져야 한다. 열정은 “참여도"와 “기여도"로 확인된다.
@@ -60,3 +61,8 @@ layout: default
 * 변화를 수용한다.
   * 확정을 최대한 늦춰서 마지막까지 변화를 수용할 수 있도록 한다.
 * 일의 양은 할 수 있는 만큼으로 제한한다.
+
+
+## 조직
+
+![union.png]({{site.baseurl}}/media/union.png)
