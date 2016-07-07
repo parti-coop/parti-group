@@ -10,5 +10,6 @@
 * [플랫폼 전략](http://docs.parti.xyz/docs/platforms/)
 * [콜라보레이션](http://docs.parti.xyz/docs/collaboration/)
 * [인터뷰 및 보도자료](http://parti.xyz/p/parti/articles)
+* [발표자료](https://drive.google.com/drive/folders/0B1fCwOawxIhHV2hRbEpfUS1yTGs)
 
 ## [빠띠조합 가이드](https://github.com/parti-xyz/parti-group/blob/master/union-guide.md)
