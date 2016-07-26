@@ -12,12 +12,22 @@ published: true
 
 ## 시민참여 프로젝트
 
+### 바글시민 와글입법 3차
+
+* GMO 완전표시제 발의안 쟁점 토론
+* date 2016년 7월 25일 ~ 7월 31일
+* with 한겨레21 
+* <http://up.parti.xyz/>
+
+![collaboration_bubble_3.png]({{site.baseurl}}/media/collaboration_bubble_3.png)
+
+
 ### 바글시민 와글입법 2차
 
 * 1차 프로젝트에서 5470표를 받은 GMO 완전표시제 입법을 위한 프로젝트 정당 만들기
-* date 2016년 7월 5일 ~ 7월 17일
+* date 2016년 7월 5일 ~ 7월 25일
 * with 한겨레21 
-* <http://up.parti.xyz/>
+* <http://up.parti.xyz/step2>
 
 ![300.png]({{site.baseurl}}/media/300.png)
 
