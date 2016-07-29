@@ -1,5 +1,6 @@
 ---
 layout: default
+published: true
 ---
 
 
@@ -133,9 +134,9 @@ parti에서는 하나 혹은 그 이상의 행아웃을 미리 만들고 재사�
 - parti-xyz <https://github.com/parti-xyz> parti github입니다.
 - parti-group <https://github.com/parti-xyz/parti-group> parti 전반적인 문서를 관리합니다.
 
-#### Waffle.io <http://waffle.io>
+#### Trello <https://trello.com>
 
-태스크 관리 도구입니다. 깃헙 이슈를 한눈에 살펴 볼 수 있게 도와줍니다. 반드시 Github private repository 권한으로 로그인합니다.
+태스크 관리 도구입니다. 
 
 - <https://waffle.io/parti-xyz/parti-group>
 
