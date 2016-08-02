@@ -138,6 +138,16 @@ parti에서는 하나 혹은 그 이상의 행아웃을 미리 만들고 재사�
 
 태스크 관리 도구입니다. 
 
+트렐로를 더 편하게 사용할 수 있게 해주는 크롬 확장프로그램입니다.
+* Card Color Titles for Trello
+    * https://chrome.google.com/webstore/detail/card-color-titles-for-tre/hpmobkglehhleflhaefmfajhbdnjmgim
+* Trello Card Numbers
+    * https://chrome.google.com/webstore/detail/trello-card-numbers/kadpkdielickimifpinkknemjdipghaf
+
+
+
+
+
 #### Vaultier <http://vault.ufofactory.net>
 
 비밀번호나 기타 보안에 민감한 자료를 관리하는 곳입니다. 쓰는 방법이 낯설기 때문에 @dalikim에게 직접 가이드 받도록 합니다.
