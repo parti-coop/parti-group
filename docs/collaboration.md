@@ -12,6 +12,16 @@ published: true
 
 ## 시민참여 프로젝트
 
+### GMO완전표시제 캠페인 바꿈 프로젝트
+
+* GMO 완전표시제 입법청원과 지지를 위한 서명
+* date 2016년 8월 11일 ~
+* with icoop 
+* <http://nongmo.parti.xyz/>
+
+![collaboration_icoop.png]({{site.baseurl}}/media/collaboration_icoop.png)
+
+
 ### 바글시민 와글입법 3차
 
 * GMO 완전표시제 발의안 쟁점 토론
